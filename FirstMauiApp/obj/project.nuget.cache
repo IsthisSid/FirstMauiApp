@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3lKFjpOsmulnetAicDKTaI7Em1Nk0MCm8+iOgVnKxp+ddpa0il4TAhLuS2n2biC9DKCf/ohK5EJxsu/xoi7etg==",
+  "dgSpecHash": "OiJELIGgnMuBUGe5y4oVGJT47NEWCkbJmI4/alTZGvfVSKd5wuM2v/iVGSfgXgFJZmNAMlhfNFvHa0I4kWG1Qg==",
   "success": true,
   "projectFilePath": "D:\\MyProjectsLibrary\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\walke\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
     "C:\\Users\\walke\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\walke\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\walke\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
